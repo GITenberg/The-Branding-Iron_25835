@@ -1,0 +1,27 @@
+_repo: The-Branding-Iron_25835
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burt, Katharine Newlin
+    alias: Newlin, Katharine
+    birthdate: 1882
+    deathdate: 1977
+    gutenberg_agent_id: '2500'
+    url: http://www.gutenberg.org/2009/agents/2500
+description: ''
+gutenberg_issued: '2008-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25835'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: The Branding Iron
+url: http://www.gutenberg.org/ebooks/25835
